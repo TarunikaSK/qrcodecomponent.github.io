@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Table of contents
 
@@ -14,9 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
-    The QR code component project focuses on creatinga visually appealing solution using HTML and CSS. The project aims to provide a user-friendly interface for displaying QR codes.
-
-  To enhance the visual appeal of the generated QR codes, the project is made utilizing CSS to customize the appearance. This includes options to adjust colors, add pictures, and alignment of items
+The QR code component project focuses on creatinga visually appealing solution using HTML and CSS. The project aims to provide a user-friendly interface for displaying QR codes. To enhance the visual appeal of the generated QR codes, the project is made utilizing CSS to customize the appearance. This includes options to adjust colors, add pictures, and alignment of items
 
   The project will also focus on ensuring the responsiveness and compatibility of the QR code component across different devices and screen sizes. By utilizing responsive design techniques, the QR codes will be displayed optimally on various devices, including desktops, tablets, and mobile phones.
 
