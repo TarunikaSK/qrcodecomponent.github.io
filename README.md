@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -21,15 +20,11 @@ The QR code component project focuses on creatinga visually appealing solution u
   The simplicity and efficiency of the HTML and CSS implementation will allow for easy integration of the QR code component into existing web projects. The QR codes can be seamlessly embedded within web pages, making them suitable for a wide range of applications, such as advertising campaigns, event promotions, or product packaging.
 
   Overall, the QR code component project utilizing HTML and CSS aims to provide an accessible and visually appealing solution for displaying QR codes. 
-  
-### Screenshot
-
-![](C:\Users\Tarunika\Desktop\Frontendmentor.io\qr-code-component-main\design\Screenshot_qr.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/TarunikaSK/qrcodecomponent.github.io
+- Live Site URL: https://tarunikask.github.io/qrcodecomponent.github.io/
 
 ### Built with
 
